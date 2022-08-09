@@ -27,6 +27,25 @@ export const init = async (App: express.Express) => {
 };
 ```
 
+## database config
+
+dans le fichier de configuration de la base de donnees ajouter
+la ligne suivante dans les entities.
+
+```typescript
+const config: ConnectionOptions = {
+    //..
+
+    entities: [
+      // ...
+      "path-to-servile/src/data/_entities/*.ts",
+      // ...
+    ],
+    
+    // ...
+  };
+```
+
 ## middlewares
 
 Ajouter dans tous les fichiers middlewares
