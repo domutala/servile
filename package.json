@@ -1,7 +1,7 @@
 {
   "name": "servile",
   "description": "Ce programme gère l'nevoie et la réception de fichiers",
-  "version": "1.0.2",
+  "version": "0.0.1",
   "author": {
     "name": "domutala",
     "github": "https://github.com/domutala"
