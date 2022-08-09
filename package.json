@@ -1,7 +1,5 @@
 {
-  "name": "wolof.server",
-  "displayname": "wolof server",
-  "shortname": "wolof",
+  "name": "servile",
   "version": "1.0.2",
   "author": {
     "name": "domutala",
