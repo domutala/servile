@@ -6,7 +6,7 @@ Ce programme gère l'nevoie et la réception de fichiers
 
 ## initialiser
 
-coller le dossier quelque part dans le projet
+Télécher et dézipper le dossier quelque part dans le projet
 
 ```typescript
 // src/server.ts
